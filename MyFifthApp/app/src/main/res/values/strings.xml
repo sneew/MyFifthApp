@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFifthApp</string>
+    <string name="nom">Escriu el teu nom</string>
+    <string name="cognom">Escriu el teu cognom</string>
+    <string name="telf">Escriu el teu telefon</string>
+    <string name="web">Escriu una web</string>
+    <string name="bmostrar">Mostrar</string>
+    <string name="besborrar">Esborrar</string>
+    <string name="pregunta">Estàs segur?</string>
+    <string name="btn_yes">Sí</string>
+    <string name="btn_no">No</string>
+    <string name="breset">Reset</string>
+    <string name="error">Està buit!</string>
+
+</resources>

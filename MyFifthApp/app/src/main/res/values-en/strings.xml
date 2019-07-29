@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFifthApp</string>
+    <string name="nom">Write your name</string>
+    <string name="cognom">Write your surname</string>
+    <string name="telf">Write your phone</string>
+    <string name="web">Write a web</string>
+    <string name="bmostrar">Show</string>
+    <string name="besborrar">Clean</string>
+    <string name="pregunta">Are You sure?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="breset">Reset</string>
+    <string name="error">Empty!</string>
+</resources>
